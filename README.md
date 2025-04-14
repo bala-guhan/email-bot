@@ -30,7 +30,7 @@ A Bot which simulates email-conversations
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/email-bot.git
+   git clone https://github.com/bala-guhan/email-bot.git
    cd email-bot
    ```
 2. **Set up env**
